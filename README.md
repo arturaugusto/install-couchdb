@@ -1,13 +1,13 @@
 # install-couchdb
 
-Simple CouchDB 2.0 installation script
+Simple CouchDB 2.1 installation script
 
 Usage:
 
 ```
 mkdir temp
 cd temp
-wget https://raw.githubusercontent.com/afiskon/install-couchdb/master/install-couchdb.sh
+wget https://raw.githubusercontent.com/arturaugusto/install-couchdb/master/install-couchdb.sh
 sh install-couchdb.sh
 # then see http://localhost:5984/_utils/
 ```
